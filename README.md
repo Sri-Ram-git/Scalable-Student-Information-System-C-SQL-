@@ -19,12 +19,12 @@ This project is a menu-driven Student Information System developed in C with SQL
 
     sudo apt install gcc sqlite3 libsqlite3-dev
 
-2.Compile the program:
+2. Compile the program:
 
    gcc student_system.c -lsqlite3 -o student_system
 
 
-3.Run the program:
+3. Run the program:
 
-  ./student_system
+   ./student_system
 
